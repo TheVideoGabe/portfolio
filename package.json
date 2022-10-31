@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "startbootstrap-freelancer": "^7.0.6"
+  },
+  "devDependencies": {
+    "push-dir": "^0.4.1"
   }
 }
